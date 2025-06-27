@@ -6,7 +6,6 @@
 Build a binary classifier using Logistic Regression to predict whether a tumor is malignant or benign using
 the Breast Cancer Wisconsin Dataset.[data.csv](https://github.com/user-attachments/files/20940539/data.csv)
 
-
 **🧰 Tools & Libraries Used**
 
 - Python (Jupyter Notebook)
